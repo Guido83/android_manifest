@@ -16,7 +16,7 @@
   
     <remote  name="Guido83"
            fetch="https://github.com/Guido83"
-           revision="p9.0" />
+           revision="pie" />
 
   <remote  name="lineage"
            fetch="https://github.com/LineageOS"
